@@ -31,11 +31,11 @@
     "prepublishOnly": "npm run build && npm test"
   },
   "dependencies": {
-    "discord.js": "^14.27.0"
+    "discord.js": "^14.28.1"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
-    "tsx": "^4.23.12",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "engines": {
